@@ -1,5 +1,4 @@
 .env
 Chroma_store/
 __pycache__/
-data/
 reference.py
